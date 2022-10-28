@@ -2,12 +2,13 @@
 - coder废物一个
 <br>
 
-- [ ] *Saladim.QBotDotnet*的使用*go-cqhttp*实现  <span>1</span>
+- [ ] *Saladim.QBotDotnet*的使用*go-cqhttp*实现  
 - [ ] (长期)*Saladim.QBotDotnet*的使用*mirai*实现  
 - [ ] 废物coder的第一个能正常用的项目5555  
 - [ ] *Monogame* 与 *xna* 的游戏开发  
 - [ ] wpf,asp.net (core) 开发学习  
 - [ ] 在一生之内做完mve(?  
+- [x] 摸鱼  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saplonily)](https://github.com/anuraghazra/github-readme-stats)
 <br>
