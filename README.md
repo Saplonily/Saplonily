@@ -14,7 +14,7 @@
 🤔 如果你有什么issue,pr,discussion之类的随便提,我反正闲着qwq  
 🍕 [个人站](https://github.com/Saplonily/SllWeb)([link](https://saplonily-site.ml))提的需求我也会尽量实现的awa  
 💬 邮箱->[Saplonily@outlook.com](mailto:Saplonily@outlook.com)  
-🛠 Most used language显示的是gml第一是因为mve那个废弃的仓库里的.gml文件最多( , ~~现在大爱C#(?~~
+🛠 Most used language显示的是gml第一是因为mve那个废弃的仓库里的.gml文件最多( , ~~现在大爱C#(?~~  
 ||o(\*°▽°\*)o|Ю 本命色#BADFF4捏~
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saplonily"/>
@@ -22,7 +22,66 @@
 ![.neter](https://img.shields.io/badge/-.NETer-%23badff4)
 ![BADFF4](https://img.shields.io/badge/-%23BADFF4-%23badff4)
 
-&lt;!-- --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--被抑郁烦很久了...真不知道未来该怎么办...现在一事无成...找不到游戏的乐趣...或者说真的好多游戏都没兴趣了...在我搞完go-cqhttp的C#框架后我也不知道该怎么办-->
 <!--现在还好了吧, 从5月上旬休学到现在, 至少是没有学习的压力了, 但是我还是感到自己就是个废物...-->
 <!--希望我能活过明年复学的时候, 但是又能怎样呢, 新班级, 说不定还是那个鬼样, 现在那么多次难入睡, 一直都梦见在学校的失望时刻-->
