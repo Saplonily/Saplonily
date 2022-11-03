@@ -17,7 +17,7 @@
 🛠 Most used language显示的是gml第一是因为mve那个废弃的仓库里的.gml文件最多( , ~~现在大爱C#(?~~  
 ||o(\*°▽°\*)o|Ю 本命色#BADFF4捏~  
 
-目前正在自己的组织(Saladim)[https://github.com/saladim-org]里摸鱼, 欢迎各位大佬随时光临这个小破组织qwq
+目前正在自己的组织[Saladim](https://github.com/saladim-org)里摸鱼, 欢迎各位大佬随时光临这个小破组织qwq
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saplonily"/>
 
