@@ -3,13 +3,24 @@
 
 ~~应该是coder废物一个~~不是应该，是绝对awa
 
+项目计划:
 - [ ] 👀*Saladim.QBotDotnet*的使用*go-cqhttp*实现  
 - [ ] 👀(长期)*Saladim.QBotDotnet*的使用*mirai*实现  
-- [ ] 🤨废物coder的第一个能正常用的项目5555  
-- [ ] 😧*Monogame* 与 *xna* 的游戏开发  
-- [ ] 😴wpf,asp.net (core) 开发学习  
 - [ ] 💤在一生之内做完mve(?  
 - [x] 🎮摸鱼  
+
+学习计划:
+- [ ] Monogame xna框架试水
+- [ ] Xamarin for android学习
+- [ ] Android基础架构学习
+- [ ] ASP.NET 基础巩固 + 进阶
+- [ ] WPF框架学习
+- [ ] MAUI 试水
+
+其他计划:
+- [ ] 等.NET 7发布
+- [ ] 等MAUI发布正式版
+- [x] 摸鱼
 
 🤔 如果你有什么issue,pr,discussion之类的随便提,我反正闲着qwq  
 🍕 [个人站](https://github.com/Saplonily/SllWeb)([link](https://saplonily-site.ml))提的需求我也会尽量实现的awa  
