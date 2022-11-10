@@ -18,9 +18,11 @@
 - [ ] MAUI 试水
 
 其他计划:
-- [ ] 等.NET 7发布
-- [ ] 等MAUI发布正式版
+- [x] 等.NET 7发布
+- [x] 等MAUI发布正式版
 - [x] 摸鱼
+
+🤔.Net 7发布正式版了好耶, 微软粉一个qwq
 
 🤔 如果你有什么issue,pr,discussion之类的随便提,我反正闲着qwq  
 🍕 [个人站](https://github.com/Saplonily/SllWeb)([link](https://saplonily-site.ml))提的需求我也会尽量实现的awa  
