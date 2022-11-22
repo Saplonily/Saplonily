@@ -4,8 +4,8 @@
 ~~应该是coder废物一个~~不是应该，是绝对awa
 
 项目计划:
-- [ ] 👀*Saladim.QBotDotnet*的使用*go-cqhttp*实现  
-- [ ] 👀(长期)*Saladim.QBotDotnet*的使用*mirai*实现  
+- [ ] 👀*Saladim.QBot*的使用*go-cqhttp*实现  
+- [ ] 👀(长期)*Saladim.QBot*的使用*mirai*实现  
 - [ ] 💤在一生之内做完mve(?  
 - [x] 🎮摸鱼  
 
