@@ -11,7 +11,7 @@
 - [x] 🎮摸鱼  
 
 关于游戏制作:
-- [ ] MVE (made by godot), will bot be released for a long long long time
+- [ ] MVE (made by godot), will not be released for a long long long time
 
 学习计划:
 - [ ] Monogame xna框架试水
