@@ -13,10 +13,6 @@
 关于游戏制作:
 - [ ] MVE (made by godot), will bot be released for a long long long time
 
-目前人状态:
-- 很想做好很多事情但是实力不允许
-- 累, 还是累, 除了累还是累
-
 学习计划:
 - [ ] Monogame xna框架试水
 - [ ] Xamarin for android学习
