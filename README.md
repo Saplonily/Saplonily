@@ -1,7 +1,7 @@
 <!--咱也不知道要不要大标题, 就酱紫罢--> 
 # Hi, Saplonily here
 
-<!--咱真的不会排版啊啊啊-->
+<!--真的不会排版啊啊啊-->
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/langs?time_range=one_year&loc_metric=changed&theme=classic" />
 
 个人破站 -> [ Saplonily 的小破站](https://saplonily-site.ml)  
@@ -39,22 +39,20 @@
 ### 关于游戏制作:
 - [ ] MVE, 不知道会咕多久
 
-### 学习(优先级排序):
-- [ ] Monogame xna框架试水
+### 学习:
 - [ ] WPF
 - [ ] godot
+- [ ] 图形学(?
 - ↓低优先级
+- [ ] Monogame xna框架试水
+- [ ] Avalonia
 - [ ] F#
 - [ ] ASP.NET 基础 + 进阶
-- [ ] MAUI 试水
-> 安卓一点也不想开发, 反正每次折腾sdk都要超级久, 烦(  
-> 不过最近倒是玄学了起来, 折腾安卓倒是很顺利
 
 ### Waiting:
 - [x] 摸鱼
-- [x] 等.NET 7发布
-- [x] 等MAUI发布正式版
-- [x] 等Godot4.0发布
+- [ ] 等 .NET 8 发布
+- [ ] 等 Godot4.x stable 发布
 
 
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
@@ -64,7 +62,7 @@
 🤔 如果你有什么issue,pr,discussion之类的随便提,我反正闲着qwq  
 🍕 项目提的什么需求我也会尽量实现的awa  
  
-目前正在 [Saladim](https://github.com/saladim-org) 里摸鱼, 欢迎各位大佬随时光临这个小破地方qwq
+目前正在 [Saladim](https://github.com/saladim-org) 里摸鱼(虽然我也不知道为什么要建个org, 算了当个黑历史罢uwu
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saplonily"/>
 
