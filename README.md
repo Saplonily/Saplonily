@@ -4,7 +4,7 @@
 <!--真的不会排版啊啊啊-->
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/langs?time_range=one_year&loc_metric=changed&theme=classic" />
 
-个人破站 -> [ Saplonily 的小破站](https://saplonily-site.ml)  
+个人破站 -> [ Saplonily 的小破站](https://www.saplonily.link)  
 
 ~~应该是 coder 废物一个~~不是应该，是绝对 awa
 
@@ -55,3 +55,4 @@
 
 ![.NETer](https://img.shields.io/badge/-.NETer-%23badff4)
 ![BADFF4](https://img.shields.io/badge/-%23BADFF4-%23badff4)
+![C#](https://img.shields.io/badge/C%23-178600)
