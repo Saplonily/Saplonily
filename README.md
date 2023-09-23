@@ -28,7 +28,8 @@
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现  
 
 ### 学习(优先级排序):
-- [ ] 图形学(?
+- [ ] opengl
+- [ ] 图形学
 - [ ] WPF / Avalonia
 - [ ] Godot
 
