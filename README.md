@@ -53,6 +53,6 @@
 - 💬 邮箱 [Saplonily@outlook.com](mailto:Saplonily@outlook.com)
 - 💬 [Bilibili](https://space.bilibili.com/39046375/dynamic)
 
-![.NET](https://img.shields.io/badge/-.NETer-%235f3cd8)
+![.NET](https://img.shields.io/badge/-.NET-%235f3cd8)
 ![#BADFF4](https://img.shields.io/badge/-%23BADFF4-%23badff4)
 ![C#](https://img.shields.io/badge/C%23-178600)
