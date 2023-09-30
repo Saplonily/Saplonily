@@ -38,6 +38,7 @@
 - [ ] 等 .NET 8 发布
 - [ ] 等 Godot4.x stable 发布
 
+***
 
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
 
