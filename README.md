@@ -8,7 +8,7 @@
 
 ~~应该是 coder 废物一个~~不是应该，是绝对 awa
 
-今日的卑微访客人数:  
+卑微访客人数总计:  
 ![vistors](https://count.getloli.com/get/@Saplonily?theme=moebooru)
 
 ### 语言相关:
