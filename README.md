@@ -4,8 +4,7 @@
 
 ## 杂碎的信息
 
-个人破站(仅 zh-cn) -> [Saplonily 的小破站](https://www.saplonily.link)  
-
+个人破站 -> [Saplonily 的小破站](https://www.saplonily.link)  
 
 卑微访客人数总计:  
 ![vistors](https://count.getloli.com/get/@Saplonily?theme=moebooru)  
