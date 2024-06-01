@@ -1,8 +1,4 @@
-<!--很抱歉... 对不起...-->
-
 # Hi, Saplonily here 👋
-
-> Note: Poor English
 
 ## 杂碎的信息 Misc info
 
@@ -31,9 +27,7 @@ Students, usually stay at school
 
 ### 杂碎的项目 Random Projects
 - [ ] ⚙ [Monosand 游戏框架](https://github.com/Saplonily/Monosand) | [Monosand Game Framework](https://github.com/Saplonily/Monosand)
-- [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod | Random Celeste Mods
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
-- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://celestemod.saplonily.link) (半完成/咕ing) | [Celeste Code Mod Tutorial]((https://celestemod.saplonily.link)) (halfway done / WIP)
 - [x] 🕸 [个人站](https://www.saplonily.link) | [Personal Site](https://www.saplonily.link)
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现 (淡坑 bot 圈) | Implementation of *Saladim.QBot* using *go-cqhttp*.
 
