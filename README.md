@@ -26,15 +26,15 @@ Students, usually stay at school
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
 
 ### 杂碎的项目 Random Projects
-- [ ] ⚙ [Monosand 游戏框架](https://github.com/Saplonily/Monosand) | [Monosand Game Framework](https://github.com/Saplonily/Monosand)
+- [ ] ⚙ 可能的一个游戏框架?
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
 - [x] 🕸 [个人站](https://www.saplonily.link) | [Personal Site](https://www.saplonily.link)
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现 (淡坑 bot 圈) | Implementation of *Saladim.QBot* using *go-cqhttp*.
 
 ### 杂碎的学习 Random Learnings
-- [ ] OpenGL3.3 / DirectX11
-- [ ] WPF / Avalonia
 - [ ] Godot
+- [ ] WPF / Avalonia
+- [ ] OpenGL3.3 / DirectX11
 
 ## 杂碎的东西 Random Stuff
 
