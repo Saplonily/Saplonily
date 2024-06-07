@@ -1,6 +1,6 @@
 # Hi, Saplonily here 👋
 
-## 杂碎的信息 Misc info
+## 杂碎的信息 Misc Info
 
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/langs?time_range=one_year&loc_metric=changed&theme=classic" />
 
@@ -14,8 +14,9 @@ Total humble visitors count:
 卑微学生党, 经常在学校被关着, 仅周末空余时间稍多点  
 Students, usually stay at school
 
-### 语言相关 Program language related
-- 主推/最喜欢 top pick/favorite: C#, Cpp
+### 语言相关 Program Language Related
+
+- 主推/最喜欢 top pick/favorite: C#, C++
 - 入坑/启蒙 initiation/enlightenment: gml (Game Maker Language)
 - 曾学过点 dabbled in: Python, html/css/js
 - 有趣想学 intrigued to learn: F#
@@ -26,12 +27,16 @@ Students, usually stay at school
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
 
 ### 杂碎的项目 Random Projects
+
 - [ ] ⚙ 可能的一个游戏框架?
+- [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod | Random Celeste Mods
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
+- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://celestemod.saplonily.link) (半完成/咕ing) | [Celeste Code Mod Tutorial]((https://celestemod.saplonily.link)) (halfway done / WIP)
 - [x] 🕸 [个人站](https://www.saplonily.link) | [Personal Site](https://www.saplonily.link)
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现 (淡坑 bot 圈) | Implementation of *Saladim.QBot* using *go-cqhttp*.
 
 ### 杂碎的学习 Random Learnings
+
 - [ ] Godot
 - [ ] WPF / Avalonia
 - [ ] OpenGL3.3 / DirectX11
