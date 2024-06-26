@@ -28,7 +28,7 @@ Students, usually stay at school
 
 ### 杂碎的项目 Random Projects
 
-- [ ] ⚙ 可能的一个游戏框架?
+- [ ] ⚙ 可能的一个游戏框架? | A possible game framework?
 - [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod | Random Celeste Mods
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
 - [x] 🍓 蔚蓝 的 [Code Mod 教程](https://celestemod.saplonily.link) (半完成/咕ing) | [Celeste Code Mod Tutorial]((https://celestemod.saplonily.link)) (halfway done / WIP)
