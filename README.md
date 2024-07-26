@@ -4,8 +4,8 @@
 
 <img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/langs?time_range=one_year&loc_metric=changed&theme=classic" />
 
-Personal Humble Site -> [Saplonily's Site](https://www.saplonily.link)  
-个人破站 -> [Saplonily 的小破站](https://www.saplonily.link)  
+Personal Humble Site -> [Saplonily's Site](https://saplonily.elecho.dev)  
+个人破站 -> [Saplonily 的小破站](https://saplonily.elecho.dev)  
 
 卑微访客人数总计:  
 Total humble visitors count:  
@@ -31,8 +31,8 @@ Students, usually stay at school
 - [ ] ⚙ 可能的一个游戏框架? | A possible game framework?
 - [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod | Random Celeste Mods
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
-- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://celestemod.saplonily.link) (半完成/咕ing) | [Celeste Code Mod Tutorial]((https://celestemod.saplonily.link)) (halfway done / WIP)
-- [x] 🕸 [个人站](https://www.saplonily.link) | [Personal Site](https://www.saplonily.link)
+- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://saplonily.elecho.dev/celeste_mod_tutorial) (半完成/咕ing) | [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (halfway done / WIP)
+- [x] 🕸 [个人站](https://saplonily.elecho.dev) | [Personal Site](https://saplonily.elecho.dev)
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现 (淡坑 bot 圈) | Implementation of *Saladim.QBot* using *go-cqhttp*.
 
 ### 杂碎的学习 Random Learnings
