@@ -28,7 +28,7 @@ Students, usually stay at school
 
 ### 杂碎的项目 Random Projects
 
-- [ ] ⚙ 可能的一个游戏框架? | A possible game framework?
+- [ ] ⚙ 可能的一个类 XNA 的游戏框架? | A possible game framework like XNA?
 - [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod | Random Celeste Mods
 - [ ] 💤 在一生之内摸完某同人游戏 MVE | Fans Game MVE
 - [x] 🍓 蔚蓝 的 [Code Mod 教程](https://saplonily.elecho.dev/celeste_mod_tutorial) (半完成/咕ing) | [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (halfway done / WIP)
@@ -37,9 +37,9 @@ Students, usually stay at school
 
 ### 杂碎的学习 Random Learnings
 
-- [ ] Godot
-- [ ] WPF / Avalonia
 - [ ] OpenGL3.3 / DirectX11
+- [ ] WPF / Avalonia
+- [ ] Godot
 
 ## 杂碎的东西 Random Stuff
 
