@@ -55,7 +55,7 @@ Students, usually stay at school
 🤔 Feel free to raise any issues, prs, or discussions.  
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saplonily"/>
-<img align="right" src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
+<img src="https://api.githubtrends.io/user/svg/Saplonily/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic"/>
 
 ### 联系 Contact
 
