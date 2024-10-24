@@ -38,7 +38,7 @@ Students, usually stay at school
 - [ ] 🍓 A new celeste multiplayer mod instead of CelesteNet, focusing on server-side optimization, up/downstream flow, CPU usage, and API usability.
 - [ ] 🍓 Random Celeste Mods
 - [ ] 💤 Random games made using Salix / PVZxMC fans game.
-- [x] 🍓 [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (WIP) (possibly additional mapping tutorial?)
+- [x] 🍓 [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (WIP) (with a possible addition of mapping tutorial?)
 - [x] 🕸 [Personal Site](https://saplonily.elecho.dev)
 
 ### 杂碎的学习 Random Learnings
