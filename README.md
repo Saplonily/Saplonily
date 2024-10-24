@@ -30,7 +30,7 @@ Students, usually stay at school
 - [ ] 🍓 蔚蓝 CelesteNet 的重写 MiaoMultiplayer, 重点优化服务器端上下行流量, CPU 占用及 API 易用性
 - [ ] 🍓 蔚蓝 Celeste 的一些碎碎的 Mod
 - [ ] 💤 基于 Salix 的一些细碎的游戏 / PVZxMC 同人游戏
-- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://saplonily.elecho.dev/celeste_mod_tutorial) (咕ing)
+- [x] 🍓 蔚蓝 的 [Code Mod 教程](https://saplonily.elecho.dev/celeste_mod_tutorial) (咕ing) (可能的 mapping 教程附加?)
 - [x] 🕸 [个人站](https://saplonily.elecho.dev)
 - [x] 👀 *Saladim.QBot* 的使用 *go-cqhttp* 实现 (淡坑 bot 圈)
 ---
@@ -38,7 +38,7 @@ Students, usually stay at school
 - [ ] 🍓 A new celeste multiplayer mod instead of CelesteNet, focusing on server-side optimization, up/downstream flow, CPU usage, and API usability.
 - [ ] 🍓 Random Celeste Mods
 - [ ] 💤 Random games made using Salix / PVZxMC fans game.
-- [x] 🍓 [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (WIP)
+- [x] 🍓 [Celeste Code Mod Tutorial](https://saplonily.elecho.dev/celeste_mod_tutorial) (WIP) (possibly additional mapping tutorial?)
 - [x] 🕸 [Personal Site](https://saplonily.elecho.dev)
 
 ### 杂碎的学习 Random Learnings
