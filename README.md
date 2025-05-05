@@ -64,7 +64,9 @@ Students, usually stay at school
 
 ### 杂碎的文件 Random Files
 
-- 🔑[Commit Public Key](./commit-public-key.txt)
+- 我的个人密钥 Personal Keys
+  - 🔑 [Commit Public Key](commit-pub.asc)
+  - 🔑 [File Public Key](./file-pub.asc)
 
 ---
 
