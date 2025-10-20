@@ -44,7 +44,7 @@ College school student, appears randomly
 ### 杂碎的学习 Random Learnings
 
 - [ ] OpenGL3.3 / DirectX11
-- [ ] Android / Xamarin
+- [ ] Android / .NET for Android
 - [ ] WPF / Avalonia
 - [ ] Godot
 
@@ -60,7 +60,7 @@ College school student, appears randomly
 ### 联系 Contact
 
 - 💬 邮箱 | Mail [Saplonily@outlook.com](mailto:Saplonily@outlook.com)
-- 💬 [Bilibili](https://space.bilibili.com/39046375)
+- 💬 [BiliBili](https://space.bilibili.com/39046375)
 
 ### 杂碎的文件 Random Files
 
